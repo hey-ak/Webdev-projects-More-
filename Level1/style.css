@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  font-weight: normal;
+}
+h2{
+  font-weight: bold;
+}
+p {
+  color: teal;
+  line-height: 2;
+  text-transform: capitalize;
+}
+button {
+  color: black;
+  background-color: red;
+}
+body {
+  background-color: #ffffff;
+}
+p {
+  text-align: center;
+  text-decoration: underline;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+
